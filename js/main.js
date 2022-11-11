@@ -15,7 +15,7 @@ const home_euro = ((home/11000.34*12354.03).toFixed(2));
 const home_som = ((home/11000.34).toFixed(10));
 const muzey_euro = ((muzey/11000.34*12354.03).toFixed(2));
 const muzey_som = ((muzey/11000.34).toFixed(10));
-const kerak = 856;
+const kerak = 100000000*11000.34;
 
 document.write("Dollarda " + dollar2 + " 💵 pulingiz bor <br>");
 document.write("Yevroda " + euro2 + " 💶 pulinigiz bor <br>");
