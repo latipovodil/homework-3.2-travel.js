@@ -27,7 +27,7 @@ const kerak_som = (som * 11000.34)
 const yetmayapdi = kerak_som - kerak;
 
 if (yetmayapdi <= 0) {
-  document.write("Sizga " + yetmayapdi + "💵 dollar yetmayapdi <br>")
+  document.write("Sizga sezilarli darajada pul yetmayapdi !!!")
   document.write("Biroz sabr qiling yoki registonga boring <br>" + name + " Agarda samalyotda shopir do'stingiz bo'lsa link tepada")
 }
 
